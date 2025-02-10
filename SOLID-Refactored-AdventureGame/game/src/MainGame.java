@@ -11,7 +11,6 @@ public class MainGame {
         CombatManager combatManager = new CombatManager();
         ItemManager itemManager = new ItemManager();
         LevelManager levelManager = new LevelManager();
-        ScoreManager scoreManager = new ScoreManager();
 
         Enemy skeleton = new Skeleton();
         Enemy zombie = new Zombie();
